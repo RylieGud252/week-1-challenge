@@ -1,0 +1,4 @@
+# Code Refactor Starter Code
+??????????????????????
+I'll be honest with you, ya lost me at day 2.
+I don't have a clue what im supposed to do with this chunk of code, regardless of how "easy" it should be.
